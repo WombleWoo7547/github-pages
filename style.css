@@ -1,10 +1,16 @@
 * {
 	text-align: center;
 	margin: 0.0001;
-	overflow-y: hidden;
+	overflow: hidden;
 	font-family: sans-serif;
 }
 
 h1 {
 	font-size: 40vmin;
+}
+
+@keyframes (min-hight: 654px) {
+	* {
+		overflow-y: hidden;
+	}
 }
